@@ -5,7 +5,9 @@
 
 Both nodes are designed to [ComfyUI Workflow](https://comfyuiblog.com/category/workflows/).
 
-Credit:
-
 This is Not a Official Comfy org, Comfyuiblog.com is Created by a Developer a Student who Learn AI, Develop node, models and workflow for comfyUI
+
+[Credit](https://ecd.sumnercountytn.gov/wp-content/uploads/formidable/3/kpo.pdf)
+
+
 
