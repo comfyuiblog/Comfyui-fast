@@ -4,7 +4,7 @@
 - **Preview Video**: allows for a quick video file preview, useful in workflows that handle video inputs.
 - **Load Video**: allows to load a video.
 
-Both nodes are designed to [ComfyUI Workflow](https://comfyuiblog.com/category/workflows/).
+For ComfyUI Workflows [ComfyUI Workflow](https://comfyuiblog.com/category/workflows/).
 
 # YouTube ComfyUI Tutorials
 Check out our YouTube channel:
