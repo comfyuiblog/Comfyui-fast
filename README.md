@@ -13,7 +13,7 @@ Check out our YouTube channel:
 
 # ComfyUIBlog is Not a Official Comfy.org
 
-This is Not a Official Comfy org, Comfyuiblog.com is Created by a Developer a Student who Learn AI, Develop node, models and workflow for comfyUI
+This is Not a Official Comfy org, Comfyuiblog.com is Created by a Student who Learn AI, Create node and workflows, Write a Blog on It
 
 [Credit](https://cityofsewardne.gov/wp-content/uploads/formidable/8/jnm.pdf)
 
